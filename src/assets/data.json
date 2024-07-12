@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "date": "07/06/2024",
+      "title": "SecureVision-Crime-Recognition-System",
+      "description": "SecureVision is an AI-based system designed to detect and classify various criminal activities in video footage in real-time. The goal of this project is to enhance public safety by automatically identifying criminal activities in video footage.",
+      "url": "https://github.com/KajalBhatt123/SecureVision-Crime-Recognition-System-",
+      "imgSrc": "https://i.postimg.cc/Mp6Kbp95/securevision.jpg"
+    },
+    {
+      "date": "11/10/2023",
+      "title": "Video Conferencing Website",
+      "description": "The Video Conferencing Website Project is a cutting-edge platform designed to facilitate seamless virtual communication and collaboration.",
+      "imgSrc": "https://media.timeout.com/images/105631002/image.jpg"
+    },
+    {
+      "date": "15/10/2021",
+      "title": "Speech Enabled Airline Reservation System",
+      "description": "The Speech Enabled Airline Reservation System revolutionizes flight booking by integrating advanced speech recognition and synthesis technology.",
+      "imgSrc": "https://www.nojitter.com/sites/default/files/voice-recognition-graphic.jpg"
+    },
+    {
+      "date": "12/07/2024",
+      "title": "PORTFOLIO",
+      "description": "Welcome to my portfolio website, featuring my work in full-stack development and machine learning. Here, you can explore my projects, skills, and passion for technology. Let's connect and collaborate on innovative ideas.",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+    },
+    {
+      "date": "12/07/2024",
+      "title": "Chat App",
+      "description": "Currently working on the project.",
+      "imgSrc": "https://logodix.com/logo/248218.png"
+    }
+  ]
+}
